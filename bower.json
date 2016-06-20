@@ -1,0 +1,22 @@
+{
+  "name": "monarquia",
+  "homepage": "https://github.com/geek1on1/monarquia",
+  "authors": [
+    "Paulo Goes <geek1on1@gmail.com>"
+  ],
+  "description": "Frontend da Casa Imperial",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "assets/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "2.2.4",
+    "Materialize": "materialize#^0.97.6"
+  }
+}
